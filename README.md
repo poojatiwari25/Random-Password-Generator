@@ -1,4 +1,3 @@
 # Random-Password-Generator
 
-![Password](images/pass.jpg)
-
+Simple Random Password Generator Project for learning
